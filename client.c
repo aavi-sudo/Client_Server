@@ -1,13 +1,3 @@
-/* 
- * Name : Avinash
- * COURSE-SECTION : CS440 SP25 
- * Assignment : 01
- * Due Date : 02/14/2025
- * Collaborators : -
- * Resources : man page
- * Description: Client Code for the Assignment - 01
- */
-
 #include <sys/socket.h>
 #include <sys/types.h>
 #include <netdb.h>
