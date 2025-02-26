@@ -1,12 +1,3 @@
-/* Name : Avinash
- * COURSE-SECTION : CS 440 SP25
- * Assignment : 01
- * Due Date : 02/12/2025
- * Collaborators : -
- * Resources : - geeks for geek for sigint function and man page
- * Description: Completing the server side code
- */
-
 #include <signal.h>
 #include <sys/socket.h>
 #include <sys/types.h>
